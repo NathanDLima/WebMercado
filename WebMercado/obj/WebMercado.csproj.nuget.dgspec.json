@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ETEC\\TCC\\WebMercado 9.0\\WebMercado 6.0\\WebMercado\\WebMercado\\WebMercado.csproj": {}
+    "C:\\Estudos Programação\\GitHUB\\WebMercado\\WebMercado\\WebMercado.csproj": {}
   },
   "projects": {
-    "D:\\ETEC\\TCC\\WebMercado 9.0\\WebMercado 6.0\\WebMercado\\WebMercado\\WebMercado.csproj": {
+    "C:\\Estudos Programação\\GitHUB\\WebMercado\\WebMercado\\WebMercado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ETEC\\TCC\\WebMercado 9.0\\WebMercado 6.0\\WebMercado\\WebMercado\\WebMercado.csproj",
+        "projectUniqueName": "C:\\Estudos Programação\\GitHUB\\WebMercado\\WebMercado\\WebMercado.csproj",
         "projectName": "WebMercado",
-        "projectPath": "D:\\ETEC\\TCC\\WebMercado 9.0\\WebMercado 6.0\\WebMercado\\WebMercado\\WebMercado.csproj",
-        "packagesPath": "C:\\Users\\nadav\\.nuget\\packages\\",
-        "outputPath": "D:\\ETEC\\TCC\\WebMercado 9.0\\WebMercado 6.0\\WebMercado\\WebMercado\\obj\\",
+        "projectPath": "C:\\Estudos Programação\\GitHUB\\WebMercado\\WebMercado\\WebMercado.csproj",
+        "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
+        "outputPath": "C:\\Estudos Programação\\GitHUB\\WebMercado\\WebMercado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nadav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
@@ -44,21 +46,21 @@
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.9, )"
+              "version": "[3.1.31, )"
             },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[3.1.31, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.9, )"
+              "version": "[3.1.31, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.9, )"
+              "version": "[3.1.31, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -99,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

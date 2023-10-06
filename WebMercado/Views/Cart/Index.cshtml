@@ -52,8 +52,8 @@
                                         </td>
                                         <td class="shoping__cart__quantity">
                                             <div class="quantity">
-                                                <div class="pro-qty">
-                                                    <input id="@string.Concat("item", item.Produto.Id)" type="text" value="@item.Quantidade">
+                                                <div class="pro-qty" data-quantidade-disponivel="@ViewBag.QuantidadeDisponivel">
+                                                    <input id="@string.Concat("item", item.Produto.Id)" type="number" value="@item.Quantidade">
                                                 </div>
                                             </div>
                                         </td>
@@ -80,7 +80,7 @@
             <div class="col-lg-12">
                 <div class="shoping__cart__btns">
                     <a asp-controller="Home" asp-action="Produtos" class="primary-btn cart-btn">CONTINUE COMPRANDO</a>
-                    <a asp-controller="Home" asp-action="Carrinho" class="primary-btn cart-btn cart-btn-right">
+                    <a asp-controller="Cart" asp-action="Index" class="primary-btn cart-btn cart-btn-right">
                         <span class="icon_loading"></span>
                         Atualizar Carrinho
                     </a>
@@ -124,8 +124,10 @@
                 url: "/Cart/Adicionar",
                 data: { id: id },
                 success: function (data) {
-                    $('#cartPartial').html(data);
                     atualizarItens();
+                    $('#cartPartial').html(data);
+                    document.location.reload(true);
+                    
                 }
             });
         };
@@ -153,8 +155,9 @@
                 url: "/Cart/Diminuir",
                 data: { id: id },
                 success: function (data) {
-                    $('#cartPartial').html(data);
                     atualizarItens();
+                    $('#cartPartial').html(data);
+                    document.location.reload(true);
                 }
             });
         };
@@ -171,6 +174,22 @@
             });
         }
 
+        // Função para finalizar a compra e retirar os items no banco
+        var finalizarCompra = function (carrinho) {
+            $.ajax({
+                type: "GET",
+                url: "/Cart/Finalizar",
+                data: {carrinho: carrinho},
+                success: function (data) {
+                    atualizarItens();
+                    //document.location.reload(true);
+                    $('#cartPartial').html(data);
+                    
+                }
+            })
+        }
+
+
         finalizado = function (xhr) {
             swal({
                 title: "Compra finalizada!",
@@ -181,7 +200,9 @@
             })
                 .then((value) => {
                     if (value == "goHome") {
+                        finalizarCompra();
                         window.location.href = '@Url.Action("Index", "Home")';
+
                     };
                 });
         };

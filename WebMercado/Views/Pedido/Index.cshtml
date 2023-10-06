@@ -1,0 +1,38 @@
+﻿@model IEnumerable<WebMercado.Models.Pedido>
+@using X.PagedList.Mvc.Core;
+@{
+    ViewData["Title"] = "Pedidos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="pt-4 pb-4">
+    <div class="container">
+        <div class="d-none d-sm-block">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Data do Pedido</th>
+                        <th>Valor do Pedido</th>
+                        <th>Ações</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.DataPedido)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ValorTotal)
+                            </td>
+                            <td>
+                                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-outline-danger">Detalhes</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>

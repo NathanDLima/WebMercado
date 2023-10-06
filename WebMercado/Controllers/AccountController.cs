@@ -302,7 +302,7 @@ namespace WebMercado.Controllers
             var link = Url.Action("ResetPassword", "Account", new { token, email = user.Email }, Request.Scheme);
             var email = new EmailSender();
             string mensagem = string.Format("Clique <a href='{0}'>AQUI</a> para resetar sua senha", link);
-            await email.Mail(model.Email, "suporte@etecshop.com", "Recuperação de Senha", mensagem);
+            await email.Mail(model.Email, "suporte@webmercado.com", "Recuperação de Senha", mensagem);
 
             return RedirectToAction("ForgotPasswordConfirmation");
         }

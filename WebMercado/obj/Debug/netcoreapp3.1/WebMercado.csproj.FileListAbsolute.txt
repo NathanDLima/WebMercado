@@ -4196,3 +4196,1424 @@ D:\ETEC\TCC\WebMercado 9.0\WebMercado 6.0\WebMercado\WebMercado\obj\Debug\netcor
 D:\ETEC\TCC\WebMercado 9.0\WebMercado 6.0\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.dll
 D:\ETEC\TCC\WebMercado 9.0\WebMercado 6.0\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.pdb
 D:\ETEC\TCC\WebMercado 9.0\WebMercado 6.0\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.genruntimeconfig.cache
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\appsettings.json
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.StaticWebAssets.xml
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.exe
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.deps.json
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.runtimeconfig.json
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.runtimeconfig.dev.json
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.pdb
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.Views.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.Views.pdb
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.csproj.AssemblyReference.cache
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.AssemblyInfoInputs.cache
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.AssemblyInfo.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.csproj.CoreCompileInputs.cache
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.MvcApplicationPartsAssemblyInfo.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.MvcApplicationPartsAssemblyInfo.cache
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.RazorAssemblyInfo.cache
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.RazorAssemblyInfo.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\staticwebassets\WebMercado.StaticWebAssets.Manifest.cache
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.TagHelpers.input.cache
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.TagHelpers.output.cache
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.RazorCoreGenerate.cache
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\Delete.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\Edit.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\SuccessRegistration.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Create.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Delete.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Details.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Edit.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contatos.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\Produtos.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ProdutosFiltrados.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\_PromocaoPartial.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\_UltimosProdutos.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BannerTopoAdmin.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CartPartial.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.RazorTargetAssemblyInfo.cache
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.RazorTargetAssemblyInfo.cs
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.Views.pdb
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.csproj.CopyComplete
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.dll
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.pdb
+C:\GITHub\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.genruntimeconfig.cache
+C:\GITHub\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.StaticWebAssets.xml
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.exe
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.deps.json
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.runtimeconfig.json
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.runtimeconfig.dev.json
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.pdb
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.Views.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.Views.pdb
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.csproj.AssemblyReference.cache
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.AssemblyInfoInputs.cache
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.AssemblyInfo.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.csproj.CoreCompileInputs.cache
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.MvcApplicationPartsAssemblyInfo.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.MvcApplicationPartsAssemblyInfo.cache
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.RazorAssemblyInfo.cache
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.RazorAssemblyInfo.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\staticwebassets\WebMercado.StaticWebAssets.Manifest.cache
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.TagHelpers.input.cache
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.TagHelpers.output.cache
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.RazorCoreGenerate.cache
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\Delete.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\Edit.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\SuccessRegistration.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Create.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Delete.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Details.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Edit.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contatos.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\Produtos.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ProdutosFiltrados.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\_PromocaoPartial.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\_UltimosProdutos.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BannerTopoAdmin.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CartPartial.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.RazorTargetAssemblyInfo.cache
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.RazorTargetAssemblyInfo.cs
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.Views.pdb
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.csproj.CopyComplete
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.dll
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.pdb
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.genruntimeconfig.cache
+C:\Estudos Programação\FATEC\Artigo\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Pedido\Index.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.StaticWebAssets.xml
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.exe
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.deps.json
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.runtimeconfig.json
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.runtimeconfig.dev.json
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.pdb
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.Views.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\WebMercado.Views.pdb
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.csproj.AssemblyReference.cache
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.AssemblyInfoInputs.cache
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.AssemblyInfo.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.csproj.CoreCompileInputs.cache
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.MvcApplicationPartsAssemblyInfo.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.MvcApplicationPartsAssemblyInfo.cache
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.RazorAssemblyInfo.cache
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.RazorAssemblyInfo.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\staticwebassets\WebMercado.StaticWebAssets.Manifest.cache
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.TagHelpers.input.cache
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.TagHelpers.output.cache
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.RazorCoreGenerate.cache
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\Delete.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\Edit.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Account\SuccessRegistration.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Create.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Delete.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Details.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Edit.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contatos.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\Produtos.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ProdutosFiltrados.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\_PromocaoPartial.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Home\_UltimosProdutos.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Pedido\Index.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BannerTopoAdmin.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CartPartial.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.RazorTargetAssemblyInfo.cache
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.RazorTargetAssemblyInfo.cs
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.Views.pdb
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.csproj.CopyComplete
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.dll
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.pdb
+C:\Estudos Programação\GitHUB\WebMercado\WebMercado\obj\Debug\netcoreapp3.1\WebMercado.genruntimeconfig.cache

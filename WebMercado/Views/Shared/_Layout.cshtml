@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="~/css/owl.carousel.min.css" type="text/css">
     <link rel="stylesheet" href="~/css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="~/css/style.css" type="text/css">
+    <link rel="stylesheet" href="~/css/site.css" type="text/css" />
     @RenderSection("Styles", required: false)
 </head>
 
@@ -45,6 +46,8 @@
                             <li class="nav-item @(ViewData["Title"].ToString() == "Home" ? "active" : "")"><a asp-controller="Home" asp-action="Index">Home</a></li>
                             <li class="nav-item @(ViewData["Title"].ToString() == "Produtos" ? "active" : "")"><a asp-controller="Home" asp-action="Produtos">Produtos</a></li>
                             <li class="nav-item @(ViewData["Title"].ToString() == "Contatos" ? "active" : "")"><a asp-controller="Home" asp-action="Contatos">Contatos</a></li>
+                            <li class="nav-item @(ViewData["Title"].ToString() == "Pedidos" ? "active" : "")"><a asp-controller="Pedido" asp-action="Index">Pedidos</a></li>
+                            <!--Colocar uma nova li com uma view para os meus pedidos-->
                             <partial name="_LoginPartial" />
                         </ul>
                     </nav>

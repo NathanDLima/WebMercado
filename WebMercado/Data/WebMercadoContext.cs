@@ -18,6 +18,11 @@ namespace WebMercado.Data
         public DbSet<Categoria> Categorias { get; set; }
         public DbSet<Produto> Produtos { get; set; }
 
+        //Testanto pedidos, caso dê merda, apagar saporra
+        public DbSet<Pedido> Pedidos { get; set; }
+
+        public DbSet<ItemPedido> ItensPedidos { get; set; }
+
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
@@ -114,6 +119,8 @@ namespace WebMercado.Data
                     UserId = CLIENTE_ID
                 }
             );
+
+            
 
         }
 
